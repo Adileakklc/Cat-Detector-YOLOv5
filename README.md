@@ -28,7 +28,3 @@ Eğitilen modelin çıktılarına dair örnekler:
 
 ![val_batch2_pred](https://github.com/user-attachments/assets/c633600d-44ae-4812-8399-4beedb33e740)
 
----
-
-## Lisans
-Bu proje MIT Lisansı altında lisanslanmıştır.
