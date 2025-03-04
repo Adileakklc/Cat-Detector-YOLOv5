@@ -16,6 +16,7 @@ Bu proje, COCO veri setinden yalnızca **kedi sınıfını** ayıklayıp YOLOv5 
 
 ## Veri Seti Bilgisi
 Proje, COCO 2017 veri setinden yalnızca "kedi" sınıfını içerecek şekilde özel olarak ayıklanmış bir veri seti ile çalışır. Ayıklama işlemi sırasında kullanılan etiketler ve görüntüler, eğitim ve test verileri için ayrılmıştır.
+https://www.kaggle.com/datasets/adile45/coco-cat-subset veri setine bu linkten erişebilirsiniz.
 
 ---
 
